@@ -1,11 +1,4 @@
-# PSP Angular Evaluation
-
-## Introduction
-
-The purpose of this evaluation is to help us better understand your
-ability to follow a simple project plan and deliver a working Angular 5
-solution. Should you have any questions or concerns regarding the instructions
-that follow please reach out to us immediately for help or clarification.
+# NASA Image Search
 
 ## Project
 
